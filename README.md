@@ -54,7 +54,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 For any queries or feedback, please contact:
 - **Email:** ashiqurrahman2205@gmail.com
-- **GitHub:** [yourusername](https://github.com/ashiqurrahman2205)
+- **GitHub:** [ashiqurrahman2205](https://github.com/ashiqurrahman2205)
 
 ---
 Thank you for using Historiscan! Your journey into history starts here.
