@@ -23,37 +23,6 @@ Historiscan is a user-centric application designed to simplify the process of bo
 - **Database:** MongoDB
 - **Email Service:** Nodemailer
 
-## Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/historiscan.git
-   cd historiscan
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Set up environment variables:**
-   Create a `.env` file in the root directory and add the following variables:
-   ```env
-   PORT=3000
-   MONGO_URI=<your_mongo_db_connection_string>
-   EMAIL_SERVICE=<your_email_service>
-   EMAIL_USER=<your_email_address>
-   EMAIL_PASS=<your_email_password>
-   ```
-
-4. **Run the application:**
-   ```bash
-   npm start
-   ```
-
-5. **Access the application:**
-   Open your browser and navigate to `http://localhost:3000`.
-
 ## Usage
 
 1. **Booking Tickets:**
@@ -84,8 +53,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 For any queries or feedback, please contact:
-- **Email:** yourname@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Email:** ashiqurrahman2205@gmail.com
+- **GitHub:** [yourusername](https://github.com/ashiqurrahman2205)
 
 ---
 Thank you for using Historiscan! Your journey into history starts here.
